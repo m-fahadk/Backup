@@ -1,0 +1,9 @@
+# 1. Ignore EVERYTHING in this repository
+*
+
+# 2. Allow Git to track the .gitignore file itself
+!.gitignore
+
+# 3. Allow only specific encrypted file extensions
+!*.age
+!index.html
